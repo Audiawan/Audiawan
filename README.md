@@ -4,16 +4,13 @@
 <h3 align="center">Saya adalah manusia yang tinggal di Indonesia</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ Tentang Saya
 
 - 🌱 I'm still learning about programming.
 
-- 👨‍💻 Projek saya **[Kato Slayer](https://katoslayer.com)**
+- 📪 Kontak saya di Discord **Audiawan#0001**
 
-- 📫 Kontak saya **egyaudiawan12345@gmail.com**
-
-
-## 🛠 Languages and Tools:
+## 🛠 Bahasa dan Code Editor:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -29,7 +26,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 
-## 📊 Audiawan Github Stats:
+## 📊 Statistik Github:
 
   <br/>
     <a href="https://github.com/Audiawan/github-readme-stats"><img alt="Statistik Audiawan" src="https://github-readme-stats.vercel.app/api?username=Audiawan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
