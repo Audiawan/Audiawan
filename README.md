@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/874258530784407592/876407047174897695/Audiawan.png" height="50px"/></a>
+<a href="#"><img width="60%" height="auto" src="https://cdn.discordapp.com/attachments/874258530784407592/876407047174897695/Audiawan.png" height="50px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Saya Audiawan</h1>
 <h3 align="center">Saya adalah manusia yang tinggal di Indonesia</h3>
