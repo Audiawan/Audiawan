@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/874258530784407592/876407047174897695/Audiawan.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Saya Audiawan</h1>
 <h3 align="center">Saya adalah manusia yang tinggal di Indonesia</h3>
@@ -40,10 +40,11 @@
 
 <a href = "https://www.instagram.com/itsrollez_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCmT4rukiGLC3njPxSPUL_aw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://discord.gg/rkM58z8b"><img src="https://cdn.discordapp.com/attachments/874258530784407592/876407546229960704/discord-logo-png-7617.png"/></a>
 
 </p>
 
-## 📋 Views and Followers
+## 📋 Follower & View
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Audiawan">
 </a>
