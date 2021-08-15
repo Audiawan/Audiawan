@@ -39,7 +39,7 @@
 
 <a href = "https://www.instagram.com/itsrollez_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCmT4rukiGLC3njPxSPUL_aw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://discord.gg/rkM58z8b"><img src="https://cdn.discordapp.com/attachments/874258530784407592/876407546229960704/discord-logo-png-7617.png"/></a>
+<a href = "https://discord.gg/rkM58z8b"><img src="https://cdn.discordapp.com/attachments/874258530784407592/876407546229960704/discord-logo-png-7617.png" width="50px"></a>
 
 </p>
 
