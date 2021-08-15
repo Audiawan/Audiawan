@@ -51,7 +51,3 @@
     <img src="https://komarev.com/ghpvc/?username=Audiawan">
 </a>
 <a href="https://github.com/Audiawan?tab=followers"><img src="https://img.shields.io/github/followers/Audiawan?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
-
-[![Audiawan stats](https://github-readme-stats.vercel.app/api?username=Audiawan&show_icons=true&theme=radical)]
