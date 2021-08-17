@@ -10,6 +10,8 @@
 
 - 📪 Kontak saya di Discord **Audiawan#0001**
 
+- 📰 Status saya adalah Sekolah Menengah Atas tingkat 2
+
 ## 🛠 Bahasa dan Code Editor:
 
 <p align="left"> 
