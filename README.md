@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Saya Audiawan</h1>
-<h3 align="center">Saya adalah manusia yang tinggal di Indonesia</h3>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Saya Egy Audiawan R</h1>
+<h3 align="center">Saya adalah manusia yang tinggal di Indonesia, West Java</h3>
 
 
 ## 🙋‍♂️ Tentang Saya
