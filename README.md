@@ -8,7 +8,7 @@
 
 - 🌱 I'm still learning about programming.
 
-- 📪 Kontak saya di Discord **Audiawan#0001**
+- 📪 Kontak saya di Discord **Audiawan#4996**
 
 - 📰 Status saya adalah Sekolah Menengah Atas tingkat 2
 
