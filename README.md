@@ -6,17 +6,12 @@
 
 ## 🙋‍♂️ Tentang Saya
 
-- 🌱 I'm still learning about programming.
+- 🌱 I'm currently learning about programming.
 
 - 📪 Kontak saya di Discord **Axa#4996**
 
 - 📰 Status saya adalah Sekolah Menengah Atas tingkat 2
 
-## 🛠 Bahasa dan Code Editor:
-
-<p align="left"> 
-Kepo Deh
-</p>
 
 ## 📊 Statistik Github:
 
